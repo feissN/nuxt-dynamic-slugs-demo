@@ -1,75 +1,17 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 self healing slugified posts
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+#### Demo data coming from https://jsonplaceholder.typicode.com/
 
-## Setup
+## Demo vid
+https://github.com/feissN/nuxt-dynamic-slugs-demo/assets/86616781/40765b0b-16d4-481d-a89f-f9317fe074aa
 
-Make sure to install the dependencies:
 
+
+### Setup
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+### Development Server
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
